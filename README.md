@@ -17,7 +17,6 @@ We implement various **graph-based algorithms**, including:
  ┣ 📜 Homework_Network_Analysis.pdf
  ┣ 📜 homework.ipynb
  ┗ 📜 fb100/data/*.gml  # Facebook100 dataset (download from pdf)
-  
 ```
 
 ## 🚀 Installation
@@ -62,5 +61,5 @@ Feel free to open issues and submit pull requests!
 ---
 📌 **Author:** Felipe Orlando
 📅 **Date:** January 2025  
-🔗 **GitHub:** [yourusername](https://github.com/felipemcorlando)  
+🔗 **GitHub:** [felipemcorlando](https://github.com/felipemcorlando)  
 
