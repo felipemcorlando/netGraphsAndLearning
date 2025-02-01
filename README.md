@@ -17,7 +17,6 @@ We implement various **graph-based algorithms**, including:
  ┣ 📜 Homework_Network_Analysis.pdf
  ┣ 📜 homework.ipynb
  ┗ 📜 fb100/data/*.gml  # Facebook100 dataset (download from pdf)
-  
 ```
 
 ## 🚀 Installation
